@@ -14,7 +14,7 @@ Se debe descargar todos los archivos de este repositorio y guardarlos en alguna 
 En el futuro se espera poder realizar mejoras como: insertar cuadros de texto con las coordenadas centrales del mapa en el lugar que uno desees, así como generar una lista de coordenadas (latitud y longitud) de los lugares por donde se desee mostrar un recorrido especifico, el cual pueda ayudar a tus amigos a llegar desde sus respectivas ubicaciones hasta el lugar de la fiesta 😄 🥳 🍻.
 
 Tambien poder cambiar los iconos de los marcadores ![image](https://user-images.githubusercontent.com/87394787/133846105-48a5dd4a-2ef2-467b-bb7a-a273cdf651e9.png)
- por el que mas te guste. en mi caso será por una imagen de Gohan ![image](https://user-images.githubusercontent.com/87394787/133846323-f7044315-71aa-45c4-b7f8-1a07d35a9ae5.png)
+ por el que mas te guste. En mi caso será por una imagen de Gohan ![image](https://user-images.githubusercontent.com/87394787/133846323-f7044315-71aa-45c4-b7f8-1a07d35a9ae5.png)
 
 
 ## MIT License
