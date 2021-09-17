@@ -8,7 +8,7 @@ Se debe descargar todos los archivos de este repositorio y guardarlos en alguna 
 
 ## Hoja de ruta de mejoras futuras:
 
-En el futuro se espera poder realizar mejoras como: insertar cuadros de texto con las coordenadas centrales del mapa en el lugar que uno desees, así como generar una lista de coordenadas (latitud y longitud) de los lugares por donde se desee mostrar un recorrido especifico, el cual pueda ayudar a tus amigos a llegar desde sus respectivas ubicaciones hasta el lugar de la fiesta :D 
+En el futuro se espera poder realizar mejoras como: insertar cuadros de texto con las coordenadas centrales del mapa en el lugar que uno desees, así como generar una lista de coordenadas (latitud y longitud) de los lugares por donde se desee mostrar un recorrido especifico, el cual pueda ayudar a tus amigos a llegar desde sus respectivas ubicaciones hasta el lugar de la fiesta 😄 🥳 🍻.
 
 ## MIT License
 
