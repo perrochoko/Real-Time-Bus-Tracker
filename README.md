@@ -1,4 +1,6 @@
-# Real-Time-Bus-Tracker
+## Titulo de este proyecto: Real-Time-Bus-Tracker
+
+## Descripción del proyecto
 Este es un ejercicio de desarrollo en el que se observa las distintas posiciones demarcadas en un plano obtenido mediante el uso de API.s
 
 ## Como hacerlo funcionar:
