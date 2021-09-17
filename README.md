@@ -5,6 +5,9 @@ Este es un ejercicio de desarrollo en el que se observa la distintas posiciones 
 
 Se debe descargar todos los archivos de este repositorio y guardarlos en alguna carpeta en tu equipo. Posteriormente se debe ejecutar en algún navegador el archivo index.html. Para observar su funcionamiento solo se debe pichar en el botón “Show stops between MIT and Harvard” y con ello observar cómo cambia su posición dentro del mapa las marcas que muestran el recorrido desde el MIT hasta Harvard durante las distintas paradas de bus entre estos dos puntos iniciales y finales del recorrido.
 
+![image](https://user-images.githubusercontent.com/87394787/133845841-18b839cb-6a50-4a78-8c18-cee33e52df68.png)
+
+
 
 ## Hoja de ruta de mejoras futuras:
 
