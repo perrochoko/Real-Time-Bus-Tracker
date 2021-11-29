@@ -5,18 +5,19 @@ Este es un ejercicio de desarrollo en el que se observa las distintas posiciones
 
 ## Como hacerlo funcionar:
 
-Se debe descargar todos los archivos de este repositorio y guardarlos en alguna carpeta en tu equipo. Posteriormente se debe ejecutar en algún navegador el archivo index.html. Para observar su funcionamiento solo se debe pichar en el botón “Show stops between MIT and Harvard” y con ello observar cómo cambia su posición dentro del mapa las marcas que muestran el recorrido desde el MIT hasta Harvard durante las distintas paradas de bus entre estos dos puntos iniciales y finales del recorrido.
+Se debe descargar todos los archivos de este repositorio y guardarlos en alguna carpeta en tu equipo. Posteriormente se puede usar un servidor local para poder dar funcionamiento. Tambien es posible usar con el siguiente link direct:  xxxxxxxxxxxxxxxxxxx
 
-![image](https://user-images.githubusercontent.com/87394787/133845841-18b839cb-6a50-4a78-8c18-cee33e52df68.png)
+![image](https://user-images.githubusercontent.com/87394787/143794736-d508c2a9-e088-48a6-a9f0-550ceebca319.png)
 
 
+## Hoja de ruta de mejoras futuras
 
-## Hoja de ruta de mejoras futuras:
-
-En el futuro se espera poder realizar mejoras como: insertar cuadros de texto con las coordenadas centrales del mapa en el lugar que uno desees, así como generar una lista de coordenadas (latitud y longitud) de los lugares por donde se desee mostrar un recorrido especifico, el cual pueda ayudar a tus amigos a llegar desde sus respectivas ubicaciones hasta el lugar de la fiesta 😄 🥳 🍻.
-
-Tambien poder cambiar los iconos de los marcadores ![image](https://user-images.githubusercontent.com/87394787/133846105-48a5dd4a-2ef2-467b-bb7a-a273cdf651e9.png)
- por el que mas te guste. En mi caso será por una imagen de Gohan ![image](https://user-images.githubusercontent.com/87394787/133846323-f7044315-71aa-45c4-b7f8-1a07d35a9ae5.png)
+En el futuro se espera poder realizar mejoras como: 
+#^ Usar imagenes para representar a cada jugaro;
+#^ Bloquear cada Casiila una vez halla sido marcada con el jugador. esta no se puede volver a usar hasta que el juego se reinicie;
+#^ Incertar botones de reseteo de juego;
+#^ Mejorar diseño de interface;
+#^ Realizar un tablero de 4x4, 5x5, etc.
 
 
 ## MIT License
