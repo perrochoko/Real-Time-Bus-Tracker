@@ -13,11 +13,11 @@ Se debe descargar todos los archivos de este repositorio y guardarlos en alguna 
 ## Hoja de ruta de mejoras futuras
 
 En el futuro se espera poder realizar mejoras como: 
-#^ Usar imagenes para representar a cada jugaro;
-#^ Bloquear cada Casiila una vez halla sido marcada con el jugador. esta no se puede volver a usar hasta que el juego se reinicie;
-#^ Incertar botones de reseteo de juego;
-#^ Mejorar diseño de interface;
-#^ Realizar un tablero de 4x4, 5x5, etc.
+* Usar imagenes para representar a cada jugaro;
+* Bloquear cada Casiila una vez halla sido marcada con el jugador. esta no se puede volver a usar hasta que el juego se reinicie;
+* Incertar botones de reseteo de juego;
+- Mejorar diseño de interface;
+- Realizar un tablero de 4x4, 5x5, etc.
 
 
 ## MIT License
